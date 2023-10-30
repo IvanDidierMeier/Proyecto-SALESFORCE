@@ -1,0 +1,1 @@
+export { default as ArticleText } from './ArticleText';
