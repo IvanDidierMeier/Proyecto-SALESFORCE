@@ -60,6 +60,11 @@ const Navbar = () => {
                 Artículos
               </Link>
             </li>
+            <li className='nav-item'>
+              <Link to='/Salesforce' className='nav-link'>
+                Salesforce
+              </Link>
+            </li>
           </ul>
           <div className='nav-btns'>
             <a href='#popular-articles' className='nav-btn btn'>

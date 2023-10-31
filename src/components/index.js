@@ -4,6 +4,7 @@ export * from './Card';
 export * from './CardArticles';
 export * from './CardWide';
 export * from './CaseStudies';
+export * from './CardSalesforce';
 export * from './Footer';
 export * from './FooterLink';
 export * from './Header';

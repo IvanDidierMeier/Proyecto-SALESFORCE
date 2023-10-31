@@ -24,6 +24,86 @@ export const testimonials = [
     content:
       'Jessica, egresada de la Fundación Pescar, mejoró su manejo emocional gracias a prácticas de autoconocimiento adquiridas en su formación.',
   },
+  {
+    id: 3,
+    author: 'Jessica Veliz',
+    date: 'Octubre 2023',
+    career: 'Egresada de la Fundación Pescar',
+    authorImage: images.caseStudieAvatar1,
+    image: images.caseStudie1,
+    content:
+      'La capacitación en Salesforce es una emocionante aventura para aprender a utilizar su plataforma de gestión integrada. Mi consejo: no teman, organicen bien su tiempo y establezcan objetivos claros con estrategias y plazos. Utilicen la plataforma Trailhead para el aprendizaje autodidacta y busquen apoyo en mentores y compañeros. ¡Éxito en esta travesía con Salesforce!',
+  },
+  {
+    id: 4,
+    author: 'Gastón Aguilar',
+    date: 'Octubre 2023',
+    career: 'Egresado de la Fundación Pescar',
+    authorImage: images.caseStudieAvatar2,
+    image: images.caseStudie2,
+    content:
+      'Mi experiencia en salesforce cumplio varios de mis objetivos puestos en el inicio del trayecto, me llevó un enorme aprendizaje sobre el CRM, una buena mejora en mi inglés y nuevos conocimientos y desafíos que logre concretar en este recorrido en el cual vimos lenguajes de programación, consejos con los clientes, y la gestión del sistema Salesforce.',
+  },
+  {
+    id: 5,
+    author: 'Abril Sanabria',
+    date: 'Octubre 2023',
+    career: 'Egresada de la Fundación Pescar',
+    authorImage: images.caseStudieAvatar3,
+    image: images.caseStudie3,
+    content:
+      'A pesar de los desafíos iniciales, tengo un consejo valioso para los futuros estudiantes: no temer a esta herramienta, sino organizarse de manera efectiva.Seguí el consejo y se sumergió en el aprendizaje. Comencé a entender profundamente cómo funcionaba la plataforma. Cuando se me presentó la oportunidad de liderar un proyecto, defini cuidadosamente mis objetivos y diseñe una estrategia sólida respaldada por un plan de acción con plazos específicos para concluir con todo',
+  },
+  {
+    id: 6,
+    author: 'Ivan Meier',
+    date: 'Octubre 2023',
+    career: 'Egresado de la Fundación Pescar',
+    authorImage: images.caseStudieAvatar4,
+    image: images.caseStudie4,
+    content:
+      'Mi experiencia en Salesforce a través de la Fundación PESCAR ha sido emocionante y gratificante. A pesar de no tener experiencia previa, la capacitación me brindó conocimientos en CRM y Salesforce, principalmente a través de la plataforma Trailhead.  Además, la colaboración entre la Fundación PESCAR y Salesforce incluyó la participación en eventos y la guía de mentores, lo que contribuyó a fortalecer mis conocimientos y prepararme para situaciones reales.',
+  },
+  {
+    id: 7,
+    author: 'Florencia Rodriguez',
+    date: 'Octubre 2023',
+    career: 'Egresada de la Fundación Pescar',
+    authorImage: images.caseStudieAvatar5,
+    image: images.caseStudie5,
+    content:
+      'Durante mi capacitación con Pescar y Salesforce, experimenté un constante aprendizaje y crecimiento. En Pescar, mejoré mis habilidades blandas, gané confianza y perdí el miedo en entrevistas. En Salesforce, aprendí Admin CRM y un nuevo lenguaje de programación, utilizando Trailblazer para comprender más sobre sus funcionalidades. Además, tuve un mentor excepcional, Mateo, cuya retroalimentación constante me guió hacia el crecimiento. Estoy agradecida por esta oportunidad y deseo éxito a los futuros estudiantes.',
+  },
+  {
+    id: 8,
+    author: 'Alejandro Morel',
+    date: 'Octubre 2023',
+    career: 'Egresada de la Fundación Pescar',
+    authorImage: images.caseStudieAvatar6,
+    image: images.caseStudie7,
+    content:
+      'Para aprovechar al máximo esta experiencia, es fundamental comprender a fondo el funcionamiento de la plataforma. Cuando se enfrenten a proyectos, ya sea en colaboración o de manera individual, establezcan objetivos claros y definan estrategias sólidas. Cada estrategia debe estar respaldada por un plan de acción que incluya plazos específicos y se alinee con la empresa o negocio elegido. La elección de una organización que les proporcione acceso a datos e información reales es esencial.',
+  },
+  {
+    id: 9,
+    author: 'Adriadna',
+    date: 'Octubre 2023',
+    career: 'Egresada de la Fundación Pescar',
+    authorImage: images.caseStudieAvatar7,
+    image: images.caseStudie6,
+    content:
+      'La capacitación en Salesforce es una emocionante aventura para aprender a utilizar su plataforma de gestión integrada. Mi consejo: no teman, organicen bien su tiempo y establezcan objetivos claros con estrategias y plazos. Utilicen la plataforma Trailhead para el aprendizaje autodidacta y busquen apoyo en mentores y compañeros. ¡Éxito en esta travesía con Salesforce!',
+  },
+  {
+    id: 10,
+    author: 'Micaela Balboa',
+    date: 'Octubre 2023',
+    career: 'Egresada de la Fundación Pescar',
+    authorImage: images.caseStudieAvatar8,
+    image: images.caseStudie1,
+    content:
+      'Esta experiencia fue una de las mejores que viví. Aprender y conectar con personas motivadas por el crecimiento fue invaluable. Los conocimientos y consejos que me llevo son extremadamente valiosos, y estoy segura de que puedo lograr mucho con todo lo que aprendí.Mi mentor es excepcional; me ha brindado ayuda, orientación y apoyo en todos los aspectos. Compartió sus experiencias vividas y consejos que son de un valor incalculable.',
+  },
 ];
 
 export const linksData = [
