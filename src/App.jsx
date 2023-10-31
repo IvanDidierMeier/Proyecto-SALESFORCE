@@ -5,6 +5,7 @@ import './App.scss';
 import Articles from './pages/Articles';
 import Cases from './pages/Cases';
 import Items from './pages/Items';
+import Salesforce from './pages/Salesforce';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           <Route path='/articles' element={<Items />} />
           <Route path='/article/:id' element={<Articles />} />
           <Route path='/cases' element={<Cases />} />
+          <Route path='/salesforce' element={<Salesforce />} />
           <Route path='*' element={<Home />} />
         </Routes>
         <Footer />
