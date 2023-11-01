@@ -134,7 +134,7 @@ export const arcticles = [
     date: 'Septiembre 2023',
     image: images.blog1,
     content:
-      'La autoestima es el pilar de nuestra vida emocional. Cultivarla nos permite enfrentar desafíos con confianza y valentía',
+      'La autoestima es el pilar de nuestra vida emocional. Cultivarla nos permite enfrentar desafíos con confianza y valentía👁️Resalta tus logrosLas personas que están en tu entorno deben felicitarte por todas tus acciones positivas. De esa manera, te ayudan a reconocer que vas por un buen camino, fortalecen tu confianza y te motivan a seguir encontrando nuevas habilidades. Además, esto hace que te sientas bien contigo mismo y alcanza un estado de bienestar porque te das cuenta de que las demás personas te valoran👁️Resalta tus logrosLas personas que están en tu entorno deben felicitarte por todas tus acciones positivas. De esa manera, te ayudan a reconocer que vas por un buen camino, fortalecen tu confianza y te motivan a seguir encontrando nuevas habilidades. Además, esto hace que te sientas bien contigo mismo y alcanza un estado de bienestar porque te das cuenta de que las demás personas te valoran.',
   },
   {
     id: 2,
@@ -212,7 +212,7 @@ export const cases = [
     author: 'Ivan meier',
     date: 'Septiembre 2023',
     career: 'Egresado de la Fundación Pescar',
-    authorImage: images.caseStudieAvatar5,
+    authorImage: images.caseStudieAvatar4,
     image: images.caseStudie5,
     content:
       'Ivan, egresado de la Fundación Pescar, emergió como líder en su comunidad gracias a técnicas de liderazgo aprendidas en su capacitación.',
@@ -223,7 +223,7 @@ export const cases = [
     author: 'Ariadna Rojas',
     date: 'Septiembre 2023',
     career: 'Egresada de la Fundación Pescar',
-    authorImage: images.caseStudieAvatar4,
+    authorImage: images.caseStudieAvatar7,
     image: images.caseStudie2,
     content:
       'Ariadna, egresada de la Fundación Pescar, canalizó su creatividad hacia proyectos innovadores a raíz de su formación inspiradora.',
@@ -234,7 +234,7 @@ export const cases = [
     author: 'Florencia Rodriguez',
     date: 'Septiembre 2023',
     career: 'Egresada de la Fundación Pescar',
-    authorImage: images.caseStudieAvatar3,
+    authorImage: images.caseStudieAvatar5,
     image: images.caseStudie3,
     content:
       'Florencia, egresada de la Fundación Pescar, experimentó una profunda transformación personal, fortaleciendo su autoestima y visión de futuro gracias a su formación.',
@@ -245,7 +245,7 @@ export const cases = [
     author: 'Alejandro Morel',
     date: 'Septiembre 2023',
     career: 'Egresado de la Fundación Pescar',
-    authorImage: images.caseStudieAvatar2,
+    authorImage: images.caseStudieAvatar6,
     image: images.caseStudie4,
     content:
       'Alejandro, egresado de la Fundación Pescar, potenció su comunicación asertiva gracias a herramientas adquiridas durante su formación.',
